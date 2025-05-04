@@ -45,6 +45,6 @@ git clone https://github.com/lfrincond/seismic_imaging_course.git
 cd seismic_imaging_course
 ```
 
-## Use this exercise to understand some basic concepts behind FWI and RTM 
+## Use these exercises to understand some basic concepts behind FWI
 <img src="./img/2_imag.pdf" style="zoom:20%;" />
 
