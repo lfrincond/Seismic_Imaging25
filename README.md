@@ -3,7 +3,7 @@
 # Seismic Imaging 25 Edition
 Course materials for the Seismic Imaging course (2025 Edition) taught by Professor Nicola Bienati at the University of Pisa for the [MSc. In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
 
-This is a computational exercise for a practical application of FWI and RTM using synthetic data.
+This is a computational exercise for a practical application of FWI highlighting the importance of the frequency infromation when performing FWI.
 Developed by Felipe Rincón at University of Pisa, Italy. 
 
 If you have any questions, please contact Felipe by email: felipe.rincon@phd.unipi.it
