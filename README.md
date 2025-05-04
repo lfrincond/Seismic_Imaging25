@@ -46,8 +46,8 @@ instructions and other options.
 ### Step 2:  Download the scripts
 ```
 # get the code
-git clone https://github.com/lfrincond/seismic_imaging_course.git
-cd seismic_imaging_course
+git clone https://github.com/lfrincond/seismic_imaging25.git
+cd seismic_imaging25
 ```
 
 ## Use these exercises to understand some basic concepts behind FWI
