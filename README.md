@@ -46,5 +46,5 @@ cd seismic_imaging_course
 ```
 
 ## Use this exercise to understand some basic concepts behind FWI and RTM 
-<img src="./img/2_imag.png" style="zoom:20%;" />
+<img src="./img/2_imag.pdf" style="zoom:20%;" />
 
