@@ -12,6 +12,11 @@ This repository contains:
 - A jupyter notebook with all the scripts and user functions to analyze the results. 
 - A synthetic velocity model in .npy format.
 
+This repository contains three Jupyter notebooks and a utility functions file:
+	•	Notebook 1: Demonstrates the sensitivity kernel in full waveform inversion using both low- and high-frequency seismic data.
+	•	Notebook 2: Compares the behavior of the objective function when using low versus high frequencies.
+	•	Notebook 3: Performs FWI using low frequencies, high frequencies, and a multiscale approach that combines both.
+ 
 
 Felipe Rincón
 
