@@ -51,5 +51,5 @@ cd seismic_imaging25
 ```
 
 ## Use these exercises to understand some basic concepts behind FWI
-<img src="./imag/2_imag.pdf" style="zoom:20%;" />
+<img src="./imag/2_imag.png" style="zoom:20%;" />
 
