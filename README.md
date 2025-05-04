@@ -1,4 +1,4 @@
-<img src="./img/1_imag.png" style="zoom:20%;" />
+<img src="./imag/1_imag.png" style="zoom:20%;" />
 
 # Seismic Imaging 25 Edition
 Course materials for the Seismic Imaging course (2025 Edition) taught by Professor Nicola Bienati at the University of Pisa for the [MSc. In Exploration and Applied Geophysics](https://www.dst.unipi.it/home-wgf.html)
@@ -46,5 +46,5 @@ cd seismic_imaging_course
 ```
 
 ## Use these exercises to understand some basic concepts behind FWI
-<img src="./img/2_imag.pdf" style="zoom:20%;" />
+<img src="./imag/2_imag.pdf" style="zoom:20%;" />
 
