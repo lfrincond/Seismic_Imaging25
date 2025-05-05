@@ -8,10 +8,11 @@ Developed by Felipe Rincón at University of Pisa, Italy.
 
 If you have any questions, please contact Felipe by email: felipe.rincon@phd.unipi.it
 
-This repository contains three Jupyter notebooks and a utility functions file:
+This repository contains four Jupyter notebooks and a utility functions file:
 - Notebook 1: Demonstrates the sensitivity kernel in full waveform inversion using both low- and high-frequency seismic data.
 - Notebook 2: Compares the behavior of the objective function when using low versus high frequencies.
 - Notebook 3: Performs FWI using low frequencies, high frequencies, and a multiscale approach that combines both.
+- Notebook 4: Performs also a FWI but with a circle anomaly instead of a gaussian.
  
 
 Felipe Rincón
